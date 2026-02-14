@@ -1,0 +1,7 @@
+﻿fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+python-multipart
+passlib[bcrypt]
+python-jose[cryptography]
